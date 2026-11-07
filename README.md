@@ -71,9 +71,6 @@ AIを使用して開発しています。
 ### ジャケット画像なし
 <img src="assets/standby_no_art.png" width="700">
 
-### ニュースモード
-<img src="assets/standby_news_mode.png" width="700">
-
 ## デモ動画
 
 Tidelyのデモ動画を見る:
